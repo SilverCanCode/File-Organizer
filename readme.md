@@ -112,8 +112,7 @@ To clone this repository to your local machine, follow these steps:
    - Use the `git clone` command followed by the URL of this repository.
 
     ```
-    git clone https://github.com/your-username/your-repository.git
-    ```
+    https://github.com/SilverCanCode/File-Organizer.git    ```
 
 3. **Navigate to the Cloned Repository:**
    - Change into the directory of the cloned repository.
